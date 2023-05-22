@@ -1,0 +1,8 @@
+C:\Users\lautaro.albariño\Desktop\Cursos\TodosLosProyectos\AnalizadorDeNumerosPrimos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lautaro.albariño\Desktop\Cursos\TodosLosProyectos\AnalizadorDeNumerosPrimos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lautaro.albariño\Desktop\Cursos\TodosLosProyectos\AnalizadorDeNumerosPrimos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lautaro.albariño\Desktop\Cursos\TodosLosProyectos\AnalizadorDeNumerosPrimos\ConsoleApp1\obj\Debug\AnalizadorDeNumerosPrimos.cs.csproj.AssemblyReference.cache
+C:\Users\lautaro.albariño\Desktop\Cursos\TodosLosProyectos\AnalizadorDeNumerosPrimos\ConsoleApp1\obj\Debug\AnalizadorDeNumerosPrimos.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\lautaro.albariño\Desktop\Cursos\TodosLosProyectos\AnalizadorDeNumerosPrimos\ConsoleApp1\obj\Debug\AnalizadorDeNumerosPrimos.cs.csproj.CoreCompileInputs.cache
+C:\Users\lautaro.albariño\Desktop\Cursos\TodosLosProyectos\AnalizadorDeNumerosPrimos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lautaro.albariño\Desktop\Cursos\TodosLosProyectos\AnalizadorDeNumerosPrimos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
